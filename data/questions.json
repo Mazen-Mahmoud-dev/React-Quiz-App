@@ -1,0 +1,119 @@
+{
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Text Markup Language",
+        "Hyperlinks and Text Making Language"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which HTML tag is used to define an internal style sheet?",
+      "options": ["<style>", "<css>", "<script>", "<link>"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which CSS property is used to change the background color?",
+      "options": ["color", "background-color", "bgcolor", "background"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "How can you make a list that lists items with numbers?",
+      "options": [
+        "<ul>",
+        "<list>",
+        "<ol>",
+        "<dl>"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        "Creative Style Sheets",
+        "Colorful Style Sheets",
+        "Cascading Style Sheets",
+        "Computer Style Sheets"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which property is used to change the font of an element?",
+      "options": ["font-style", "font-weight", "font-family", "text-style"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which method is used to fetch data from an API in JavaScript?",
+      "options": ["getData()", "fetch()", "requestData()", "retrieve()"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is NOT a JavaScript data type?",
+      "options": ["String", "Number", "Boolean", "Character"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "In JavaScript, how do you declare a variable?",
+      "options": ["let", "var", "const", "All of the above"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the 'box-sizing' property in CSS?",
+      "options": [
+        "To add borders to a box",
+        "To control the box dimensions",
+        "To determine the box model for calculating width and height",
+        "To set the background color of a box"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the default HTTP method used when submitting a form?",
+      "options": ["POST", "PUT", "GET", "DELETE"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which JavaScript keyword is used to define a constant?",
+      "options": ["var", "let", "const", "define"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which property is used to align text to the center in CSS?",
+      "options": ["align", "text-align", "center-align", "align-center"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What does 'responsive design' mean in front-end development?",
+      "options": [
+        "Design that adjusts to user interactions",
+        "Design that works on different screen sizes",
+        "Design that loads faster",
+        "Design that uses animations"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which library is commonly used with JavaScript for DOM manipulation?",
+      "options": ["Angular", "React", "Vue", "jQuery"],
+      "correctOption": 3,
+      "points": 10
+    }
+  ]
+}
